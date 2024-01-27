@@ -16,7 +16,7 @@ This repository contains a solution for the "Hurdles Race" world in the Reeborg'
   - Open the world in the Reeborg's World editor and execute the provided script.
   - Ensure that the correct path is followed, and the hurdles are overcome.
 ## Additional Information
-- **World Difficulty:** This world is classified as "DIFFICULTY1."
-- **Optimization:** For a more advanced solution, users are encouraged to define a function named **'jump()'** to simplify the program.
+- **World Difficulty:** This world is classified as "DIFFICULTY5."
+- **Optimization:** For a more advanced solution, users are encouraged to define an advanced function named **'jump()'** to simplify the program.
 
 Feel free to explore, contribute, or adapt the code to enhance your Reeborg's World experience. Happy coding!
