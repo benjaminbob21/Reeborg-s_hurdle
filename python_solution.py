@@ -1,4 +1,4 @@
-def roun():
+def jump():
     move()
     turn_left()
     move()
@@ -12,4 +12,4 @@ def roun():
     move()
     turn_left()
 for i in range(6):
-    roun()
+    jump()
